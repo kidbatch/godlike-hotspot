@@ -1,0 +1,6 @@
+{
+  "users":[
+    {"username":"admin","saldo":50000,"vip":null,"phone":"08123456789","vouchers":[]}
+  ],
+  "trx":[]
+}
